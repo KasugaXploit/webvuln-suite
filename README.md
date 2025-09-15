@@ -16,7 +16,7 @@ Tools all-in-one untuk mencari kerentanan website langsung dari Termux. Cocok un
 ```bash
 pkg update && pkg upgrade
 pkg install git -y
-git clone https://github.com/<username>/webvuln-suite
+git clone https://github.com/KasugaXploit/webvuln-suite
 cd webvuln-suite
 bash webvuln-suite.sh
 
